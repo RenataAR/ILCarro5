@@ -1,0 +1,41 @@
+17:50:11.649 INFO  tests.TestBase ******* Start test public void tests.LoginTests.loginNegativeTestWrongEmail()
+17:50:11.657 INFO  manager.MyListener Start searching element by By.xpath: //a[.=' Logout ']
+17:50:24.815 INFO  manager.MyListener The element with locator by By.xpath: //a[.=' Logout '] is found successfully
+17:50:24.819 INFO  manager.MyListener Start searching element by By.xpath: //a[.=' Log in ']
+17:50:24.847 INFO  manager.MyListener The element with locator by By.xpath: //a[.=' Log in '] is found successfully
+17:50:24.930 INFO  manager.MyListener Start searching element by By.id: email
+17:50:24.945 INFO  manager.MyListener The element with locator by By.id: email is found successfully
+17:50:25.134 INFO  manager.MyListener Start searching element by By.id: password
+17:50:25.157 INFO  manager.MyListener The element with locator by By.id: password is found successfully
+17:50:25.251 INFO  manager.MyListener Start searching element by By.xpath: //button[@type="submit"]
+17:50:25.267 INFO  manager.MyListener The element with locator by By.xpath: //button[@type="submit"] is found successfully
+17:50:25.297 INFO  manager.MyListener Start searching element by By.xpath: //div[.="It'snot look like email"]
+17:50:25.318 INFO  manager.MyListener The element with locator by By.xpath: //div[.="It'snot look like email"] is found successfully
+17:50:25.367 INFO  manager.MyListener Start searching element by By.xpath: //div[.="It'snot look like email"]
+17:50:25.395 INFO  manager.MyListener The element with locator by By.xpath: //div[.="It'snot look like email"] is found successfully
+17:50:25.412 INFO  manager.MyListener Start searching element by By.xpath: //button[.='Ok']
+17:50:26.556 INFO  manager.MyListener The element with locator by By.xpath: //button[.='Ok'] is found successfully
+17:50:26.556 INFO  manager.MyListener Start searching element by By.xpath: //button[.='Ok']
+17:50:26.575 INFO  manager.MyListener The element with locator by By.xpath: //button[.='Ok'] is found successfully
+17:50:26.608 INFO  tests.TestBase *********Finish test
+17:50:26.609 INFO  tests.TestBase ******* Start test public void tests.LoginTests.loginPositiveTest()
+17:50:26.610 INFO  manager.MyListener Start searching element by By.xpath: //a[.=' Logout ']
+17:50:36.700 INFO  manager.MyListener The element with locator by By.xpath: //a[.=' Logout '] is found successfully
+17:50:36.701 INFO  manager.MyListener Start searching element by By.xpath: //a[.=' Log in ']
+17:50:36.734 INFO  manager.MyListener The element with locator by By.xpath: //a[.=' Log in '] is found successfully
+17:50:36.783 INFO  manager.MyListener Start searching element by By.id: email
+17:50:36.801 INFO  manager.MyListener The element with locator by By.id: email is found successfully
+17:50:36.917 INFO  manager.MyListener Start searching element by By.id: password
+17:50:36.941 INFO  manager.MyListener The element with locator by By.id: password is found successfully
+17:50:37.045 INFO  manager.MyListener Start searching element by By.xpath: //button[@type="submit"]
+17:50:37.066 INFO  manager.MyListener The element with locator by By.xpath: //button[@type="submit"] is found successfully
+17:50:37.083 INFO  manager.MyListener Start searching element by By.xpath: //h2[.='Logged in success']
+17:50:37.414 INFO  manager.MyListener The element with locator by By.xpath: //h2[.='Logged in success'] is found successfully
+17:50:37.450 INFO  manager.MyListener Start searching element by By.xpath: //h2[.='Logged in success']
+17:50:37.472 INFO  manager.MyListener The element with locator by By.xpath: //h2[.='Logged in success'] is found successfully
+17:50:37.483 INFO  manager.MyListener Start searching element by By.xpath: //button[.='Ok']
+17:50:37.505 INFO  manager.MyListener The element with locator by By.xpath: //button[.='Ok'] is found successfully
+17:50:37.505 INFO  manager.MyListener Start searching element by By.xpath: //button[.='Ok']
+17:50:37.517 INFO  manager.MyListener The element with locator by By.xpath: //button[.='Ok'] is found successfully
+17:50:37.560 INFO  tests.TestBase *********Finish test
+17:50:37.562 INFO  tests.TestBase ******* Start test public void tests.RegistrationTests.registrationNegativeTestWrongEmail()

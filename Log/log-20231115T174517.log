@@ -1,0 +1,41 @@
+17:45:22.721 INFO  manager.ApplicationManager Testing on FirefoxDriver
+17:45:25.115 INFO  tests.TestBase ******* Start test public void tests.LoginTests.loginNegativeTestWrongEmail()
+17:45:25.117 INFO  manager.MyListener Start searching element by By.xpath: //a[.=' Logout ']
+17:45:35.174 INFO  manager.MyListener The element with locator by By.xpath: //a[.=' Logout '] is found successfully
+17:45:35.219 INFO  manager.MyListener Start searching element by By.xpath: //a[.=' Log in ']
+17:45:35.250 INFO  manager.MyListener The element with locator by By.xpath: //a[.=' Log in '] is found successfully
+17:45:35.548 INFO  manager.MyListener Start searching element by By.id: email
+17:45:35.566 INFO  manager.MyListener The element with locator by By.id: email is found successfully
+17:45:35.946 INFO  manager.MyListener Start searching element by By.id: password
+17:45:35.970 INFO  manager.MyListener The element with locator by By.id: password is found successfully
+17:45:36.239 INFO  manager.MyListener Start searching element by By.xpath: //button[@type="submit"]
+17:45:36.248 INFO  manager.MyListener The element with locator by By.xpath: //button[@type="submit"] is found successfully
+17:45:36.317 INFO  manager.MyListener Start searching element by By.xpath: //div[.="It'snot look like email"]
+17:45:36.326 INFO  manager.MyListener The element with locator by By.xpath: //div[.="It'snot look like email"] is found successfully
+17:45:36.411 INFO  manager.MyListener Start searching element by By.xpath: //div[.="It'snot look like email"]
+17:45:36.418 INFO  manager.MyListener The element with locator by By.xpath: //div[.="It'snot look like email"] is found successfully
+17:45:36.449 INFO  manager.MyListener Start searching element by By.xpath: //button[.='Ok']
+17:45:37.687 INFO  manager.MyListener The element with locator by By.xpath: //button[.='Ok'] is found successfully
+17:45:37.687 INFO  manager.MyListener Start searching element by By.xpath: //button[.='Ok']
+17:45:37.695 INFO  manager.MyListener The element with locator by By.xpath: //button[.='Ok'] is found successfully
+17:45:37.930 INFO  tests.TestBase *********Finish test
+17:45:37.933 INFO  tests.TestBase ******* Start test public void tests.LoginTests.loginPositiveTest()
+17:45:37.934 INFO  manager.MyListener Start searching element by By.xpath: //a[.=' Logout ']
+17:45:47.952 INFO  manager.MyListener The element with locator by By.xpath: //a[.=' Logout '] is found successfully
+17:45:47.953 INFO  manager.MyListener Start searching element by By.xpath: //a[.=' Log in ']
+17:45:47.970 INFO  manager.MyListener The element with locator by By.xpath: //a[.=' Log in '] is found successfully
+17:45:48.248 INFO  manager.MyListener Start searching element by By.id: email
+17:45:48.266 INFO  manager.MyListener The element with locator by By.id: email is found successfully
+17:45:48.563 INFO  manager.MyListener Start searching element by By.id: password
+17:45:48.577 INFO  manager.MyListener The element with locator by By.id: password is found successfully
+17:45:48.852 INFO  manager.MyListener Start searching element by By.xpath: //button[@type="submit"]
+17:45:48.857 INFO  manager.MyListener The element with locator by By.xpath: //button[@type="submit"] is found successfully
+17:45:48.879 INFO  manager.MyListener Start searching element by By.xpath: //h2[.='Logged in success']
+17:45:49.190 INFO  manager.MyListener The element with locator by By.xpath: //h2[.='Logged in success'] is found successfully
+17:45:49.231 INFO  manager.MyListener Start searching element by By.xpath: //h2[.='Logged in success']
+17:45:49.250 INFO  manager.MyListener The element with locator by By.xpath: //h2[.='Logged in success'] is found successfully
+17:45:49.261 INFO  manager.MyListener Start searching element by By.xpath: //button[.='Ok']
+17:45:49.281 INFO  manager.MyListener The element with locator by By.xpath: //button[.='Ok'] is found successfully
+17:45:49.281 INFO  manager.MyListener Start searching element by By.xpath: //button[.='Ok']
+17:45:49.297 INFO  manager.MyListener The element with locator by By.xpath: //button[.='Ok'] is found successfully
+17:45:49.530 INFO  tests.TestBase *********Finish test

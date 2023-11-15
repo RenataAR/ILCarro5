@@ -1,0 +1,40 @@
+15:31:39.230 INFO  manager.ApplicationManager Testing on FirefoxDriver
+15:31:42.226 INFO  tests.TestBase ******* Start test public void tests.LoginTests.loginNegativeTestWrongEmail()
+15:31:42.246 INFO  tests.TestBase ******* Start test public void tests.LoginTests.loginNegativeTestWrongEmail()
+15:31:42.247 INFO  manager.MyListener Start searching element by By.xpath: //a[.=' Logout ']
+15:31:52.305 INFO  manager.MyListener The element with locator by By.xpath: //a[.=' Logout '] is found successfully
+15:31:52.319 INFO  manager.MyListener Start searching element by By.xpath: //a[.=' Log in ']
+15:31:52.346 INFO  manager.MyListener The element with locator by By.xpath: //a[.=' Log in '] is found successfully
+15:31:52.683 INFO  manager.MyListener Start searching element by By.id: email
+15:31:52.693 INFO  manager.MyListener The element with locator by By.id: email is found successfully
+15:31:53.008 INFO  manager.MyListener Start searching element by By.id: password
+15:31:53.017 INFO  manager.MyListener The element with locator by By.id: password is found successfully
+15:31:53.296 INFO  manager.MyListener Start searching element by By.xpath: //button[@type="submit"]
+15:31:53.312 INFO  manager.MyListener The element with locator by By.xpath: //button[@type="submit"] is found successfully
+15:31:53.376 INFO  manager.MyListener Start searching element by By.xpath: //div[.="It'snot look like email"]
+15:31:53.388 INFO  manager.MyListener The element with locator by By.xpath: //div[.="It'snot look like email"] is found successfully
+15:31:53.451 INFO  manager.MyListener Start searching element by By.xpath: //div[.="It'snot look like email"]
+15:31:53.466 INFO  manager.MyListener The element with locator by By.xpath: //div[.="It'snot look like email"] is found successfully
+15:31:53.497 INFO  manager.MyListener Start searching element by By.xpath: //button[.='Ok']
+15:31:54.631 INFO  manager.MyListener The element with locator by By.xpath: //button[.='Ok'] is found successfully
+15:31:54.632 INFO  manager.MyListener Start searching element by By.xpath: //button[.='Ok']
+15:31:54.645 INFO  manager.MyListener The element with locator by By.xpath: //button[.='Ok'] is found successfully
+15:31:54.893 INFO  tests.TestBase *********Finish test
+15:31:54.895 INFO  tests.TestBase ******* Start test public void tests.LoginTests.loginPositiveTest()
+15:31:54.895 INFO  manager.MyListener Start searching element by By.xpath: //a[.=' Logout ']
+15:32:03.405 INFO  manager.MyListener Something went wrong!
+15:32:03.406 INFO  manager.MyListener TypeError: browsingContext.currentWindowGlobal is null
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-MMEUCUR', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 118.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20230927232528, moz:geckodriverVersion: 0.32.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 6504, moz:profile: C:\Users\Renata\AppData\Loc..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: e4e747da-1969-4f3b-9461-e75810ea8a04
+*** Element info: {Using=xpath, value=//a[.=' Logout ']}
+15:32:03.406 INFO  manager.MyListener TypeError: browsingContext.currentWindowGlobal is null
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-MMEUCUR', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 118.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20230927232528, moz:geckodriverVersion: 0.32.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 6504, moz:profile: C:\Users\Renata\AppData\Loc..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: e4e747da-1969-4f3b-9461-e75810ea8a04
+*** Element info: {Using=xpath, value=//a[.=' Logout ']}
+15:32:03.469 INFO  tests.TestBase ******* Start test public void tests.RegistrationTests.registrationNegativeTestWrongEmail()
